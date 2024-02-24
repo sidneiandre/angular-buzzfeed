@@ -1,0 +1,54 @@
+{
+  "title":"Você seria um Empreendedor ou um Funcionário ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Sua ideia cria valor? Ela resolve um problema importante ou atende uma necessidade ?",
+      "options":[
+        {"id": 1, "name":"SIM", "alias":"A"},
+        {"id": 2, "name":"NAO", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "Sua ideia atende um mercado em crescimento e apresenta possibilidades de lucro ?",
+      "options":[
+        {"id": 1, "name":"SIM", "alias":"A"},
+        {"id": 2, "name":"NAO", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":3,
+      "question": "Sua ideia tem público consumidor definido ?",
+      "options":[
+        {"id": 1, "name":"SIM", "alias":"A"},
+        {"id": 2, "name":"NAO", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":4,
+      "question": "Sua ideia apresenta possibilidades bem definidas de retorno financeiro e de crescimento ?",
+      "options":[
+        {"id": 1, "name":"SIM", "alias":"A"},
+        {"id": 2, "name":"NAO", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":5,
+      "question": "Sua ideia está de acordo com seu perfil e com suas características pessoais ?",
+      "options":[
+        {"id": 1, "name":"SIM", "alias":"A"},
+        {"id": 2, "name":"NAO", "alias":"B"}
+
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um ecelente Empreendedor! Acapacidade de correr risco e a auto confiança são duas caractérisaca marcante",
+    "B": "Você muito provavelmente seria um Funcionário!"
+  }
+}
